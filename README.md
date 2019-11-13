@@ -10,10 +10,10 @@ I got my bachelor's degree of CS from Yuan Pei College, PKU, and now I am a PhD 
 
   WeChat: dr__lc
 
-  GitHub: LC-John [Link](https://github.com/LC-John)
+  GitHub: LC-John [[Link]](https://github.com/LC-John)
 
 (Please introduce yourself a little. Thanks!)
 
 ## My Real Homepage
 
-View more here please! [Portal](http://drlc5417.top/)
+View more here please! [[Portal]](http://drlc5417.top/)
