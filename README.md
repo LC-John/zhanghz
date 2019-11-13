@@ -1,4 +1,4 @@
-# Huangzhao Zhang's Homepage!
+# Zhanghz's Homepage
 
 Hi! My name is Huangzhao Zhang (张煌昭 in Chinese).
 
