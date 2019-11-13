@@ -16,4 +16,4 @@ I got my bachelor's degree of CS from Yuan Pei College, PKU, and now I am a PhD 
 
 ## My Real Homepage
 
-View more here please! [Portal](http://http://drlc5417.top/)
+View more here please! [Portal](http://drlc5417.top/)
